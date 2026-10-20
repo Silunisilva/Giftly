@@ -1,0 +1,1725 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Flowers & Bouquets",
+      "slug": "flowers",
+      "icon": "🌸",
+      "description": "Fresh floral arrangements, roses, and preserved blooms",
+      "imageUrl": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-2",
+      "name": "Beauty & Skincare",
+      "slug": "beauty-skincare",
+      "icon": "✨",
+      "description": "Ayurvedic wellness, organic lotions, and pampering sets",
+      "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-3",
+      "name": "Curated Gift Boxes",
+      "slug": "gift-boxes",
+      "icon": "🎁",
+      "description": "Handcrafted themed gift hampers for every taste",
+      "imageUrl": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 3
+    },
+    {
+      "id": "cat-4",
+      "name": "Chocolates & Sweets",
+      "slug": "chocolates-sweets",
+      "icon": "🍫",
+      "description": "Artisan chocolates, brownies, macarons and treats",
+      "imageUrl": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 4
+    },
+    {
+      "id": "cat-5",
+      "name": "Cakes & Desserts",
+      "slug": "cakes",
+      "icon": "🎂",
+      "description": "Custom celebration cakes, cupcakes, and tarts",
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 5
+    },
+    {
+      "id": "cat-6",
+      "name": "Perfumes & Scents",
+      "slug": "perfumes",
+      "icon": "🌿",
+      "description": "Signature fragrances, mists, and diffuser sets",
+      "imageUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 6
+    },
+    {
+      "id": "cat-7",
+      "name": "Jewellery & Keepsakes",
+      "slug": "jewellery",
+      "icon": "💎",
+      "description": "Silver, gold-plated, gemstone jewelry & pendants",
+      "imageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 7
+    },
+    {
+      "id": "cat-8",
+      "name": "Personalized Gifts",
+      "slug": "personalized",
+      "icon": "🏷️",
+      "description": "Custom engraved frames, mugs, journals & keepsakes",
+      "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 8
+    },
+    {
+      "id": "cat-9",
+      "name": "Handmade & Crafts",
+      "slug": "handmade",
+      "icon": "🧶",
+      "description": "Authentic Sri Lankan handlooms, pottery and crafts",
+      "imageUrl": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 9
+    },
+    {
+      "id": "cat-10",
+      "name": "Home & Lifestyle",
+      "slug": "home-lifestyle",
+      "icon": "🕯️",
+      "description": "Scented candles, ceramic tableware, cozy decor",
+      "imageUrl": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 10
+    },
+    {
+      "id": "cat-11",
+      "name": "Fashion & Bags",
+      "slug": "fashion-bags",
+      "icon": "👜",
+      "description": "Silk scarves, tote bags, wallets and accessories",
+      "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 11
+    },
+    {
+      "id": "cat-12",
+      "name": "Plants & Succulents",
+      "slug": "plants",
+      "icon": "🪴",
+      "description": "Indoor plants, air-purifying pots, and terrariums",
+      "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 12
+    },
+    {
+      "id": "cat-13",
+      "name": "Stationery & Books",
+      "slug": "stationery-books",
+      "icon": "📖",
+      "description": "Leather journals, planners, desk sets & bestsellers",
+      "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 13
+    },
+    {
+      "id": "cat-14",
+      "name": "Experiences & Dining",
+      "slug": "experiences",
+      "icon": "🎟️",
+      "description": "High tea vouchers, spa days, pottery workshops",
+      "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=600&q=80",
+      "sortOrder": 14
+    }
+  ],
+  "occasions": [
+    {
+      "id": "occ-1",
+      "name": "Birthday",
+      "slug": "birthday",
+      "icon": "🎂",
+      "description": "Celebrate another wonderful year around the sun",
+      "sortOrder": 1
+    },
+    {
+      "id": "occ-2",
+      "name": "Anniversary",
+      "slug": "anniversary",
+      "icon": "💍",
+      "description": "Romantic milestones and lasting love",
+      "sortOrder": 2
+    },
+    {
+      "id": "occ-3",
+      "name": "Graduation",
+      "slug": "graduation",
+      "icon": "🎓",
+      "description": "Congratulate academic and career achievements",
+      "sortOrder": 3
+    },
+    {
+      "id": "occ-4",
+      "name": "Valentine's Day",
+      "slug": "valentines-day",
+      "icon": "💖",
+      "description": "Express your heartfelt love and romance",
+      "sortOrder": 4
+    },
+    {
+      "id": "occ-5",
+      "name": "Mother's Day",
+      "slug": "mothers-day",
+      "icon": "💐",
+      "description": "Shower mom with gratitude and warmth",
+      "sortOrder": 5
+    },
+    {
+      "id": "occ-6",
+      "name": "Father's Day",
+      "slug": "fathers-day",
+      "icon": "👔",
+      "description": "Show dad how much you appreciate him",
+      "sortOrder": 6
+    },
+    {
+      "id": "occ-7",
+      "name": "Wedding",
+      "slug": "wedding",
+      "icon": "👰",
+      "description": "Celebrate the union of two souls",
+      "sortOrder": 7
+    },
+    {
+      "id": "occ-8",
+      "name": "Housewarming",
+      "slug": "housewarming",
+      "icon": "🏡",
+      "description": "Warm wishes for a cozy new home",
+      "sortOrder": 8
+    },
+    {
+      "id": "occ-9",
+      "name": "Thank You",
+      "slug": "thank-you",
+      "icon": "🙏",
+      "description": "A meaningful token of heartfelt appreciation",
+      "sortOrder": 9
+    },
+    {
+      "id": "occ-10",
+      "name": "Just Because",
+      "slug": "just-because",
+      "icon": "✨",
+      "description": "Spontaneous surprises that brighten anyone's day",
+      "sortOrder": 10
+    },
+    {
+      "id": "occ-11",
+      "name": "Get Well Soon",
+      "slug": "get-well-soon",
+      "icon": "🍵",
+      "description": "Comforting care packages and warm thoughts",
+      "sortOrder": 11
+    },
+    {
+      "id": "occ-12",
+      "name": "New Baby",
+      "slug": "new-baby",
+      "icon": "🍼",
+      "description": "Welcoming the sweetest new arrival",
+      "sortOrder": 12
+    }
+  ],
+  "users": [
+    {
+      "id": "user-shopper",
+      "name": "Siluni Silva",
+      "email": "siluni@example.com",
+      "role": "USER",
+      "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+      "createdAt": "2026-01-15T08:00:00.000Z",
+      "updatedAt": "2026-01-15T08:00:00.000Z"
+    },
+    {
+      "id": "user-shopowner",
+      "name": "Kasun Jayawardena (Bloom House)",
+      "email": "partner@bloomhouse.lk",
+      "role": "SHOP_OWNER",
+      "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "user-admin",
+      "name": "Giftly Administrator",
+      "email": "admin@giftly.lk",
+      "role": "ADMIN",
+      "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "shops": [
+    {
+      "id": "shop-bloom-house",
+      "name": "Bloom House Colombo",
+      "slug": "bloom-house",
+      "tagLine": "Artisan Bouquets & Luxury Preserved Floral Boxes",
+      "description": "Colombo's premier floral studio crafting breathtaking bouquets, boxed fresh Ecuadorian roses, and everlasting dried flower arrangements for life's most unforgettable occasions.",
+      "logo": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://bloomhouse.lk",
+      "instagramUrl": "https://instagram.com/bloomhousecolombo",
+      "facebookUrl": "https://facebook.com/bloomhousecolombo",
+      "whatsappNumber": "+94771234567",
+      "phone": "+94112345678",
+      "email": "hello@bloomhouse.lk",
+      "address": "42 Ward Place, Cinnamon Gardens",
+      "city": "Colombo 07",
+      "district": "Colombo",
+      "latitude": 6.9147,
+      "longitude": 79.8732,
+      "categories": [
+        "Flowers & Bouquets",
+        "Curated Gift Boxes",
+        "Personalized Gifts"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "ownerId": "user-shopowner",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-spa-ceylon",
+      "name": "Spa Ceylon Luxury Ayurveda",
+      "slug": "spa-ceylon",
+      "tagLine": "Royal Wellness & Ceylon Botanical Spa Rituals",
+      "description": "World-renowned Ceylon luxury ayurveda bath, body, skincare and wellness collections, packaged with regal elegance and pure royal botanical ingredients.",
+      "logo": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://spaceylon.com",
+      "instagramUrl": "https://instagram.com/spaceylon",
+      "facebookUrl": "https://facebook.com/spaceylon",
+      "whatsappNumber": "+94779876543",
+      "phone": "+94114567890",
+      "email": "care@spaceylon.com",
+      "address": "14 Park Street, Colombo 02",
+      "city": "Colombo 02",
+      "district": "Colombo",
+      "latitude": 6.9189,
+      "longitude": 79.8596,
+      "categories": [
+        "Beauty & Skincare",
+        "Perfumes & Scents",
+        "Curated Gift Boxes"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-mimosa",
+      "name": "Mimosa Studio",
+      "slug": "mimosa",
+      "tagLine": "Modern Curated Gift Boxes & Celebration Essentials",
+      "description": "Thoughtfully themed gift hampers featuring locally crafted goodies, premium teas, scented candles, and customized keepsakes packaged in signature reusable pine and matte boxes.",
+      "logo": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1513201099705-a9746e1e201f?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://mimosagifts.lk",
+      "instagramUrl": "https://instagram.com/mimosastudio.lk",
+      "facebookUrl": "https://facebook.com/mimosastudiolk",
+      "whatsappNumber": "+94772345678",
+      "phone": "+94117654321",
+      "email": "curate@mimosagifts.lk",
+      "address": "88 Horton Place",
+      "city": "Colombo 07",
+      "district": "Colombo",
+      "latitude": 6.9112,
+      "longitude": 79.8745,
+      "categories": [
+        "Curated Gift Boxes",
+        "Personalized Gifts",
+        "Home & Lifestyle"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-butter-boutique",
+      "name": "Butter Boutique",
+      "slug": "butter-boutique",
+      "tagLine": "Decadent Artisan Cakes, Gourmet Cookies & Sweet Treats",
+      "description": "Famous for decadent layered cakes, tres leches, handmade artisan gelato, gourmet brownies and show-stopping celebration treats baked with pure French butter and real chocolate.",
+      "logo": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1535141192574-5d4897c13136?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://butterboutique.lk",
+      "instagramUrl": "https://instagram.com/butterboutique",
+      "facebookUrl": "https://facebook.com/butterboutique",
+      "whatsappNumber": "+94773456789",
+      "phone": "+94112500000",
+      "email": "orders@butterboutique.lk",
+      "address": "34 27th Lane, Colombo 03",
+      "city": "Colombo 03",
+      "district": "Colombo",
+      "latitude": 6.9015,
+      "longitude": 79.8524,
+      "categories": [
+        "Cakes & Desserts",
+        "Chocolates & Sweets"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-urban-island",
+      "name": "Urban Island",
+      "slug": "urban-island",
+      "tagLine": "Contemporary Tropical Lifestyle, Ceramic Ware & Homeware",
+      "description": "Celebrating modern tropical Sri Lankan design through handwoven textiles, handcrafted stoneware ceramics, scented soy candles, and artisan lifestyle decor.",
+      "logo": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://urbanisland.com",
+      "instagramUrl": "https://instagram.com/urbanisland.lk",
+      "facebookUrl": "https://facebook.com/urbanislandlk",
+      "whatsappNumber": "+94774567890",
+      "phone": "+94112599000",
+      "email": "contact@urbanisland.com",
+      "address": "181 S. De S. Jayasinghe Mawatha",
+      "city": "Nugegoda",
+      "district": "Colombo",
+      "latitude": 6.8722,
+      "longitude": 79.8988,
+      "categories": [
+        "Home & Lifestyle",
+        "Handmade & Crafts",
+        "Fashion & Bags"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-barefoot",
+      "name": "Barefoot Ceylon",
+      "slug": "barefoot-ceylon",
+      "tagLine": "Iconic Handloom Wonders, Books, Toys & Island Living",
+      "description": "A legendary Sri Lankan institution created by Barbara Sansoni. Vibrant hand-dyed cotton handlooms, handcrafted soft toys, bespoke notebooks, and coffee table Ceylon art books.",
+      "logo": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://barefootceylon.com",
+      "instagramUrl": "https://instagram.com/barefootceylon",
+      "facebookUrl": "https://facebook.com/barefootceylon",
+      "whatsappNumber": "+94775678901",
+      "phone": "+94112589305",
+      "email": "info@barefootceylon.com",
+      "address": "704 Galle Road, Colombo 03",
+      "city": "Colombo 03",
+      "district": "Colombo",
+      "latitude": 6.892,
+      "longitude": 79.855,
+      "categories": [
+        "Handmade & Crafts",
+        "Home & Lifestyle",
+        "Stationery & Books"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-the-scent-bar",
+      "name": "The Scent Bar Colombo",
+      "slug": "the-scent-bar",
+      "tagLine": "Bespoke Perfumery, Scented Mist & Reed Diffusers",
+      "description": "Crafting customized signature fragrances, luxury soy wax candles, and oriental reed diffusers inspired by tropical Ceylon spices, vanilla orchids and ocean breezes.",
+      "logo": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://thescentbar.lk",
+      "instagramUrl": "https://instagram.com/thescentbarcolombo",
+      "facebookUrl": "https://facebook.com/thescentbarlk",
+      "whatsappNumber": "+94776789012",
+      "phone": "+94112543210",
+      "email": "fragrance@thescentbar.lk",
+      "address": "15 Stratford Avenue",
+      "city": "Colombo 06",
+      "district": "Colombo",
+      "latitude": 6.879,
+      "longitude": 79.8655,
+      "categories": [
+        "Perfumes & Scents",
+        "Home & Lifestyle",
+        "Curated Gift Boxes"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-aurelia-jewellery",
+      "name": "Aurelia Fine Jewellery",
+      "slug": "aurelia-jewellery",
+      "tagLine": "Minimalist 18k Gold Plated, Sterling Silver & Ceylon Sapphires",
+      "description": "Timeless everyday fine jewelry featuring ethically sourced Ceylon sapphires, dainty 18k gold vermeil pendants, stackable rings, and customized birthstone necklaces.",
+      "logo": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://aureliajewels.lk",
+      "instagramUrl": "https://instagram.com/aureliajewels.lk",
+      "facebookUrl": "https://facebook.com/aureliajewelslk",
+      "whatsappNumber": "+94777890123",
+      "phone": "+94112378901",
+      "email": "sparkle@aureliajewels.lk",
+      "address": "22 Alfred House Gardens",
+      "city": "Colombo 03",
+      "district": "Colombo",
+      "latitude": 6.899,
+      "longitude": 79.854,
+      "categories": [
+        "Jewellery & Keepsakes",
+        "Personalized Gifts"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-green-thumb",
+      "name": "Green Thumb Plant Studio",
+      "slug": "green-thumb",
+      "tagLine": "Exotic Indoor Botanicals, Bonsai & Handcrafted Planters",
+      "description": "Lush potted monsteras, air-purifying snake plants, succulent terrariums in handmade terracotta and ceramic vessels that bring peaceful green life to any room.",
+      "logo": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://greenthumb.lk",
+      "instagramUrl": "https://instagram.com/greenthumb.lk",
+      "facebookUrl": "https://facebook.com/greenthumbplants",
+      "whatsappNumber": "+94778901234",
+      "phone": "+94112789123",
+      "email": "grow@greenthumb.lk",
+      "address": "55 Nawala Road",
+      "city": "Rajagiriya",
+      "district": "Colombo",
+      "latitude": 6.908,
+      "longitude": 79.892,
+      "categories": [
+        "Plants & Succulents",
+        "Home & Lifestyle"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-papyrus",
+      "name": "Papyrus Artisan Stationery",
+      "slug": "papyrus-stationery",
+      "tagLine": "Handmade Deckled Paper, Leather Journals & Wax Seal Kits",
+      "description": "Preserving the romantic art of letter writing with recycled handmade elephant dung paper, gilded calligraphy sets, vintage wax stamps, and customized journals.",
+      "logo": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://papyruspaper.lk",
+      "instagramUrl": "https://instagram.com/papyrus.stationery",
+      "facebookUrl": "https://facebook.com/papyruspaperlk",
+      "whatsappNumber": "+94779012345",
+      "phone": "+94112456123",
+      "email": "write@papyruspaper.lk",
+      "address": "71 Reid Avenue",
+      "city": "Colombo 07",
+      "district": "Colombo",
+      "latitude": 6.903,
+      "longitude": 79.865,
+      "categories": [
+        "Stationery & Books",
+        "Personalized Gifts",
+        "Handmade & Crafts"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-teaeli",
+      "name": "Teaeli Artisan Teas",
+      "slug": "teaeli",
+      "tagLine": "Single Origin Ceylon Designer Tea Blends & Tea Gift Chests",
+      "description": "Sri Lanka's first designer tea blender, crafting playful, decadent tea infusions like Chocolate Truffle, Mint Earl Grey, and Rose Berry in luxury collectible caddies.",
+      "logo": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://teaeli.com",
+      "instagramUrl": "https://instagram.com/teaeliteas",
+      "facebookUrl": "https://facebook.com/teaeli",
+      "whatsappNumber": "+94770123456",
+      "phone": "+94112890456",
+      "email": "sip@teaeli.com",
+      "address": "12 Independence Avenue",
+      "city": "Colombo 07",
+      "district": "Colombo",
+      "latitude": 6.9045,
+      "longitude": 79.869,
+      "categories": [
+        "Curated Gift Boxes",
+        "Food & Beverages",
+        "Home & Lifestyle"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-chocolate-factory",
+      "name": "The Chocolate Factory Colombo",
+      "slug": "the-chocolate-factory",
+      "tagLine": "Handmade Single Estate Dark Cocoa Truffles & Pralines",
+      "description": "Small-batch bean-to-bar chocolatier producing velvety bonbons infused with Ceylon cinnamon, salted caramel, cashew crunch, and wild passion fruit.",
+      "logo": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1511381939415-e44015466834?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://chocolatefactory.lk",
+      "instagramUrl": "https://instagram.com/thechocolatefactorylk",
+      "facebookUrl": "https://facebook.com/chocolatefactorylk",
+      "whatsappNumber": "+94773344556",
+      "phone": "+94112998877",
+      "email": "truffles@chocolatefactory.lk",
+      "address": "10 Deal Place",
+      "city": "Colombo 03",
+      "district": "Colombo",
+      "latitude": 6.903,
+      "longitude": 79.852,
+      "categories": [
+        "Chocolates & Sweets",
+        "Curated Gift Boxes"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-negombo-clay",
+      "name": "Negombo Clay & Pottery House",
+      "slug": "negombo-clay",
+      "tagLine": "Earthy Hand-thrown Ceramic Mugs, Planters & Dinnerware",
+      "description": "Cozy coastal pottery studio crafting minimal matte terracotta coffee mugs, glazed noodle bowls, and aroma burners made by local master potters.",
+      "logo": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://negombopottery.lk",
+      "instagramUrl": "https://instagram.com/negomboclay",
+      "facebookUrl": "https://facebook.com/negomboclay",
+      "whatsappNumber": "+94774455667",
+      "phone": "+94312223344",
+      "email": "clay@negombopottery.lk",
+      "address": "24 Porutota Road",
+      "city": "Negombo",
+      "district": "Gampaha",
+      "latitude": 7.228,
+      "longitude": 79.843,
+      "categories": [
+        "Handmade & Crafts",
+        "Home & Lifestyle"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "shop-kandy-crafts",
+      "name": "Kandy Craft & Silks",
+      "slug": "kandy-craft-silks",
+      "tagLine": "Traditional Kandyan Brass, Handwoven Batik Silks & Woodcarvings",
+      "description": "Heritage craftsmen cooperative from the sacred hills of Kandy delivering hand-drawn silk batiks, embossed brass platters, and polished ebony decorative keepsakes.",
+      "logo": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=200&q=80",
+      "coverImage": "https://images.unsplash.com/photo-1582738411706-bfc8e691d1c2?auto=format&fit=crop&w=1200&q=80",
+      "websiteUrl": "https://kandycrafts.lk",
+      "instagramUrl": "https://instagram.com/kandycraftsilks",
+      "facebookUrl": "https://facebook.com/kandycrafts",
+      "whatsappNumber": "+94771122334",
+      "phone": "+94812234567",
+      "email": "heritage@kandycrafts.lk",
+      "address": "88 Dalada Veediya",
+      "city": "Kandy",
+      "district": "Kandy",
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "categories": [
+        "Handmade & Crafts",
+        "Fashion & Bags",
+        "Home & Lifestyle"
+      ],
+      "isVerified": true,
+      "status": "ACTIVE",
+      "createdAt": "2026-01-10T10:00:00.000Z",
+      "updatedAt": "2026-01-10T10:00:00.000Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-rose-bouquet",
+      "shopId": "shop-bloom-house",
+      "name": "Velvet Crimson Rose & Baby's Breath Bouquet",
+      "slug": "velvet-crimson-rose-bouquet",
+      "description": "24 handpicked long-stem red roses wrapped in premium waterproof matte Korean paper and tied with a luxury satin ribbon. Includes complimentary handwritten calligraphed card.",
+      "price": 4800,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Flowers & Bouquets",
+      "tags": [
+        "flowers",
+        "roses",
+        "romantic",
+        "bouquet",
+        "birthday",
+        "anniversary",
+        "girlfriend",
+        "wife",
+        "cute",
+        "under-5000"
+      ],
+      "occasions": [
+        "Birthday",
+        "Anniversary",
+        "Valentine's Day",
+        "Just Because"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Wife",
+        "Mom",
+        "Sister",
+        "Friend"
+      ],
+      "interests": [
+        "Flowers",
+        "Romantic surprises",
+        "Aesthetics",
+        "Cute decor",
+        "Photography"
+      ],
+      "giftTypes": [
+        "Romantic",
+        "Cute",
+        "Luxurious",
+        "Surprising"
+      ],
+      "minBudget": 3500,
+      "maxBudget": 6000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 342,
+      "clicksCount": 89,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-preserved-dome",
+      "shopId": "shop-bloom-house",
+      "name": "Pastel Dream Preserved Everlasting Floral Dome",
+      "slug": "pastel-dream-floral-dome",
+      "description": "A magical glass bell jar housing 100% real preserved hydrangea and peony blooms that last 3+ years without watering. Features subtle warm fairy lights embedded inside.",
+      "price": 7500,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Flowers & Bouquets",
+      "tags": [
+        "preserved flowers",
+        "fairy lights",
+        "aesthetic",
+        "romantic",
+        "long lasting",
+        "room decor",
+        "cute"
+      ],
+      "occasions": [
+        "Birthday",
+        "Anniversary",
+        "Valentine's Day",
+        "Graduation"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Wife",
+        "Sister",
+        "Friend"
+      ],
+      "interests": [
+        "Flowers",
+        "Room aesthetics",
+        "Fairy lights",
+        "Cute gifts"
+      ],
+      "giftTypes": [
+        "Romantic",
+        "Cute",
+        "Luxurious",
+        "Personalized"
+      ],
+      "minBudget": 6000,
+      "maxBudget": 10000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 280,
+      "clicksCount": 71,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-sunflower-posy",
+      "shopId": "shop-bloom-house",
+      "name": "Sunflower Sunshine Hand-Tied Posy",
+      "slug": "sunflower-sunshine-posy",
+      "description": "Bright golden sunflowers paired with chamomile flowers and eucalyptus leaves. Guaranteed to bring instant joy and bright energy to any graduate or best friend.",
+      "price": 3200,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Flowers & Bouquets",
+      "tags": [
+        "sunflowers",
+        "graduation",
+        "yellow",
+        "cheerful",
+        "affordable",
+        "under-5000",
+        "friend",
+        "sister"
+      ],
+      "occasions": [
+        "Graduation",
+        "Birthday",
+        "Get Well Soon",
+        "Thank You",
+        "Just Because"
+      ],
+      "recipientTypes": [
+        "Friend",
+        "Sister",
+        "Brother",
+        "Colleague",
+        "Mom"
+      ],
+      "interests": [
+        "Nature",
+        "Photography",
+        "Bright aesthetic",
+        "Minimalist"
+      ],
+      "giftTypes": [
+        "Cute",
+        "Useful",
+        "Surprising"
+      ],
+      "minBudget": 2500,
+      "maxBudget": 4000,
+      "isFeatured": false,
+      "isActive": true,
+      "viewsCount": 195,
+      "clicksCount": 48,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-spa-ceylon-destress",
+      "shopId": "shop-spa-ceylon",
+      "name": "De-Stress Luxury Wellness Gift Box",
+      "slug": "spa-ceylon-destress-wellness-box",
+      "description": "Infused with calming Frankincense, pure Kaffir Lime and soothing Sandalwood. Contains Relaxing Body Cleanser, Body Massage Oil, Calming Mist, and Peace Soothing Balm.",
+      "price": 6900,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Beauty & Skincare",
+      "tags": [
+        "skincare",
+        "self care",
+        "ayurveda",
+        "relaxation",
+        "luxury",
+        "spa",
+        "girlfriend",
+        "mom",
+        "wife"
+      ],
+      "occasions": [
+        "Birthday",
+        "Mother's Day",
+        "Anniversary",
+        "Thank You",
+        "Just Because"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Mom",
+        "Wife",
+        "Sister",
+        "Friend",
+        "Colleague"
+      ],
+      "interests": [
+        "Skincare",
+        "Self care",
+        "Wellness",
+        "Spa rituals",
+        "Natural beauty"
+      ],
+      "giftTypes": [
+        "Luxurious",
+        "Useful",
+        "Romantic",
+        "Thoughtful"
+      ],
+      "minBudget": 5000,
+      "maxBudget": 9000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 420,
+      "clicksCount": 115,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-spa-ceylon-facecare",
+      "shopId": "shop-spa-ceylon",
+      "name": "Ceylon Tea & Aloe Gentle Face Care Set",
+      "slug": "ceylon-tea-aloe-face-care-set",
+      "description": "Hydrating Ceylon Green Tea clarifying face wash, refreshing floral facial toning mist, and ultra-light soothing aloe vera moisture gel for radiant tropical skin.",
+      "price": 4600,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Beauty & Skincare",
+      "tags": [
+        "face care",
+        "skincare",
+        "green tea",
+        "under 5000",
+        "organic",
+        "girlfriend",
+        "sister",
+        "bestie"
+      ],
+      "occasions": [
+        "Birthday",
+        "Just Because",
+        "Thank You"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Sister",
+        "Friend",
+        "Boyfriend"
+      ],
+      "interests": [
+        "Skincare",
+        "Organic beauty",
+        "Daily routine",
+        "Refreshment"
+      ],
+      "giftTypes": [
+        "Useful",
+        "Cute",
+        "Thoughtful"
+      ],
+      "minBudget": 3500,
+      "maxBudget": 5500,
+      "isFeatured": false,
+      "isActive": true,
+      "viewsCount": 310,
+      "clicksCount": 78,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-mimosa-sweet-hug",
+      "shopId": "shop-mimosa",
+      "name": "The 'Sweet Hug' Thoughtful Care Package",
+      "slug": "sweet-hug-care-package",
+      "description": "Includes an artisan scented soy candle (Vanilla Berry), gourmet chocolate fudge brownie cookies, a cozy ceramic mug, and a customized personalized greeting card in a ribboned gift box.",
+      "price": 4900,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1513201099705-a9746e1e201f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Curated Gift Boxes",
+      "tags": [
+        "gift box",
+        "cute",
+        "thoughtful",
+        "candle",
+        "cookies",
+        "mug",
+        "under 5000",
+        "girlfriend",
+        "best friend"
+      ],
+      "occasions": [
+        "Birthday",
+        "Just Because",
+        "Thank You",
+        "Get Well Soon"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Sister",
+        "Friend",
+        "Mom",
+        "Colleague"
+      ],
+      "interests": [
+        "Cute things",
+        "Cozy lifestyle",
+        "Baking",
+        "Coffee",
+        "Candles",
+        "Flowers",
+        "Skincare"
+      ],
+      "giftTypes": [
+        "Cute",
+        "Thoughtful",
+        "Useful",
+        "Surprising"
+      ],
+      "minBudget": 4000,
+      "maxBudget": 6000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 512,
+      "clicksCount": 140,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-mimosa-gentleman",
+      "shopId": "shop-mimosa",
+      "name": "Gentleman's Executive Coffee & Leather Box",
+      "slug": "gentlemans-executive-coffee-leather-box",
+      "description": "Features premium single-origin Ceylon roasted Arabica coffee beans, a stainless steel french press, genuine top-grain leather card holder, and dark single-estate chocolate thins.",
+      "price": 8800,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Curated Gift Boxes",
+      "tags": [
+        "boyfriend gift",
+        "husband",
+        "dad",
+        "coffee lover",
+        "leather wallet",
+        "luxury",
+        "executive"
+      ],
+      "occasions": [
+        "Birthday",
+        "Father's Day",
+        "Anniversary",
+        "Graduation",
+        "Promotion"
+      ],
+      "recipientTypes": [
+        "Boyfriend",
+        "Husband",
+        "Dad",
+        "Brother",
+        "Colleague"
+      ],
+      "interests": [
+        "Coffee",
+        "Leather goods",
+        "Tech",
+        "Minimalist style",
+        "Executive life"
+      ],
+      "giftTypes": [
+        "Luxurious",
+        "Useful",
+        "Thoughtful"
+      ],
+      "minBudget": 7000,
+      "maxBudget": 12000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 390,
+      "clicksCount": 94,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-butter-tres-leches",
+      "shopId": "shop-butter-boutique",
+      "name": "Signature Tres Leches Celebration Cake (1kg)",
+      "slug": "signature-tres-leches-cake",
+      "description": "Colossal sponge soaked in three rich creams, topped with whipped chantilly and fresh strawberries. Colombo's most celebrated birthday and anniversary centerpiece dessert.",
+      "price": 6200,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1535141192574-5d4897c13136?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Cakes & Desserts",
+      "tags": [
+        "cake",
+        "celebration",
+        "birthday",
+        "dessert",
+        "food",
+        "sweet",
+        "delicious",
+        "strawberries"
+      ],
+      "occasions": [
+        "Birthday",
+        "Anniversary",
+        "Graduation",
+        "Housewarming",
+        "Just Because"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Boyfriend",
+        "Mom",
+        "Dad",
+        "Sister",
+        "Friend",
+        "Couple"
+      ],
+      "interests": [
+        "Food",
+        "Desserts",
+        "Celebration",
+        "Gourmet dining"
+      ],
+      "giftTypes": [
+        "Surprising",
+        "Delicious",
+        "Luxurious"
+      ],
+      "minBudget": 5000,
+      "maxBudget": 8000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 470,
+      "clicksCount": 130,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-aurelia-sapphire",
+      "shopId": "shop-aurelia-jewellery",
+      "name": "Dainty Ceylon Blue Sapphire Solitaire Necklace",
+      "slug": "ceylon-blue-sapphire-necklace",
+      "description": "A brilliant round-cut 4mm natural Ceylon blue sapphire bezel-set on a shimmering 16-18 inch adjustable 18k gold-plated 925 sterling silver cable chain. Packaged in a velvet keepsake box.",
+      "price": 14500,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Jewellery & Keepsakes",
+      "tags": [
+        "jewellery",
+        "sapphire",
+        "gold necklace",
+        "luxury",
+        "girlfriend",
+        "anniversary",
+        "romantic",
+        "wife"
+      ],
+      "occasions": [
+        "Anniversary",
+        "Birthday",
+        "Valentine's Day",
+        "Wedding",
+        "Graduation"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Wife",
+        "Mom",
+        "Sister"
+      ],
+      "interests": [
+        "Fine jewellery",
+        "Gemstones",
+        "Minimalist fashion",
+        "Luxury"
+      ],
+      "giftTypes": [
+        "Romantic",
+        "Luxurious",
+        "Personalized"
+      ],
+      "minBudget": 12000,
+      "maxBudget": 20000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 520,
+      "clicksCount": 165,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-aurelia-initial-disc",
+      "shopId": "shop-aurelia-jewellery",
+      "name": "Personalized Initial Letter Disc Bracelet",
+      "slug": "personalized-initial-disc-bracelet",
+      "description": "Custom hand-stamped initial disc on a dainty 14k gold-filled chain. Pick any uppercase letter to create an intimate keepsake she can wear everyday.",
+      "price": 4900,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1611591475155-4284fa2c0e7f?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1611591475155-4284fa2c0e7f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Jewellery & Keepsakes",
+      "tags": [
+        "initial bracelet",
+        "personalized",
+        "jewelry",
+        "gold",
+        "cute",
+        "girlfriend",
+        "bestie",
+        "under 5000"
+      ],
+      "occasions": [
+        "Birthday",
+        "Valentine's Day",
+        "Anniversary",
+        "Graduation"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Sister",
+        "Friend",
+        "Wife"
+      ],
+      "interests": [
+        "Jewelry",
+        "Personalization",
+        "Minimalist style",
+        "Cute things"
+      ],
+      "giftTypes": [
+        "Personalized",
+        "Cute",
+        "Romantic"
+      ],
+      "minBudget": 4000,
+      "maxBudget": 6000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 385,
+      "clicksCount": 110,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-choc-pralines",
+      "shopId": "shop-chocolate-factory",
+      "name": "Handcrafted Single-Origin Praline Collection (16-Piece)",
+      "slug": "handcrafted-single-origin-praline-collection",
+      "description": "Artisan chocolate gems hand-painted with colored cocoa butter. Flavors include Ceylon Cinnamon Ganache, Passionfruit Gelee, Kandy Salted Caramel, and Pistachio Cream.",
+      "price": 4500,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1511381939415-e44015466834?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Chocolates & Sweets",
+      "tags": [
+        "chocolates",
+        "pralines",
+        "truffles",
+        "gourmet",
+        "romantic",
+        "girlfriend",
+        "sweet tooth",
+        "under 5000"
+      ],
+      "occasions": [
+        "Valentine's Day",
+        "Anniversary",
+        "Birthday",
+        "Thank You"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Boyfriend",
+        "Wife",
+        "Husband",
+        "Friend"
+      ],
+      "interests": [
+        "Chocolates",
+        "Gourmet food",
+        "Sweets",
+        "Romantic dates"
+      ],
+      "giftTypes": [
+        "Romantic",
+        "Delicious",
+        "Cute",
+        "Luxurious"
+      ],
+      "minBudget": 3500,
+      "maxBudget": 6000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 460,
+      "clicksCount": 135,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-scent-vanilla-candle",
+      "shopId": "shop-the-scent-bar",
+      "name": "Ceylon Vanilla & Wild Fig Luxury Scented Candle",
+      "slug": "ceylon-vanilla-fig-candle",
+      "description": "250g natural coconut-soy wax candle with double cotton wick. Features top notes of fresh black fig, heart of spicy vanilla bean, and warm sandalwood base. 55-hour burn time.",
+      "price": 3800,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Home & Lifestyle",
+      "tags": [
+        "candle",
+        "vanilla",
+        "fig",
+        "relaxing",
+        "room scent",
+        "girlfriend",
+        "mom",
+        "under 5000"
+      ],
+      "occasions": [
+        "Birthday",
+        "Housewarming",
+        "Anniversary",
+        "Thank You"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Mom",
+        "Wife",
+        "Friend",
+        "Colleague"
+      ],
+      "interests": [
+        "Candles",
+        "Aromatherapy",
+        "Cozy vibes",
+        "Self care",
+        "Flowers"
+      ],
+      "giftTypes": [
+        "Romantic",
+        "Cute",
+        "Luxurious",
+        "Useful"
+      ],
+      "minBudget": 3000,
+      "maxBudget": 5000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 405,
+      "clicksCount": 96,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-barefoot-tote",
+      "shopId": "shop-barefoot",
+      "name": "Handwoven Sunset Orange Cotton Tote Bag",
+      "slug": "handwoven-sunset-orange-tote-bag",
+      "description": "Heavy-duty 100% Sri Lankan handloom cotton tote featuring iconic Barbara Sansoni bright geometric stripes, sturdy shoulder straps, and interior zip pocket.",
+      "price": 3800,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Fashion & Bags",
+      "tags": [
+        "tote bag",
+        "handloom",
+        "colorful",
+        "barefoot",
+        "sustainable",
+        "fashion",
+        "under 5000"
+      ],
+      "occasions": [
+        "Birthday",
+        "Just Because",
+        "Graduation"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Sister",
+        "Friend",
+        "Mom"
+      ],
+      "interests": [
+        "Fashion",
+        "Everyday essentials",
+        "Island living",
+        "Art"
+      ],
+      "giftTypes": [
+        "Useful",
+        "Cute",
+        "Thoughtful"
+      ],
+      "minBudget": 3000,
+      "maxBudget": 5000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 360,
+      "clicksCount": 88,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-teaeli-dessert-chest",
+      "shopId": "shop-teaeli",
+      "name": "Artisan Dessert Tea Trio Gift Chest",
+      "slug": "artisan-dessert-tea-trio",
+      "description": "Three collectible matte tins featuring 'Choc Mint Truffle', 'Almond Vanilla Rooibos', and 'Strawberries & Champagne Green Tea' presented in an embossed wooden slider box with golden mesh tea infuser.",
+      "price": 5200,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Curated Gift Boxes",
+      "tags": [
+        "tea",
+        "ceylon tea",
+        "dessert tea",
+        "gourmet",
+        "gift chest",
+        "mom",
+        "dad",
+        "housewarming"
+      ],
+      "occasions": [
+        "Mother's Day",
+        "Father's Day",
+        "Housewarming",
+        "Birthday",
+        "Thank You"
+      ],
+      "recipientTypes": [
+        "Mom",
+        "Dad",
+        "Friend",
+        "Colleague",
+        "Couple"
+      ],
+      "interests": [
+        "Tea lover",
+        "Gourmet flavors",
+        "Relaxation",
+        "Ceylon heritage"
+      ],
+      "giftTypes": [
+        "Thoughtful",
+        "Luxurious",
+        "Useful"
+      ],
+      "minBudget": 4000,
+      "maxBudget": 7000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 330,
+      "clicksCount": 84,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-green-terrarium",
+      "shopId": "shop-green-thumb",
+      "name": "Miniature Geometric Succulent & Crystal Terrarium",
+      "slug": "geometric-succulent-crystal-terrarium",
+      "description": "Hexagonal glass and brass terrarium featuring 3 hardy assorted succulents, raw rose quartz crystal, white river pebbles and charcoal filtration layer.",
+      "price": 4800,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Plants & Succulents",
+      "tags": [
+        "terrarium",
+        "succulents",
+        "crystals",
+        "glass",
+        "desk decor",
+        "cute",
+        "girlfriend",
+        "colleague"
+      ],
+      "occasions": [
+        "Birthday",
+        "Housewarming",
+        "Graduation",
+        "Just Because"
+      ],
+      "recipientTypes": [
+        "Girlfriend",
+        "Colleague",
+        "Friend",
+        "Sister"
+      ],
+      "interests": [
+        "Crystals",
+        "Desk aesthetics",
+        "Low maintenance plants",
+        "Cute things"
+      ],
+      "giftTypes": [
+        "Cute",
+        "Thoughtful",
+        "Useful"
+      ],
+      "minBudget": 3500,
+      "maxBudget": 6000,
+      "isFeatured": true,
+      "isActive": true,
+      "viewsCount": 310,
+      "clicksCount": 80,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    },
+    {
+      "id": "prod-negombo-mug",
+      "shopId": "shop-negombo-clay",
+      "name": "Speckled White Wheel-Thrown Coffee Mug",
+      "slug": "speckled-white-wheel-thrown-mug",
+      "description": "Chunky ergonomic ceramic mug with comfortable thumb rest, handcrafted from local Negombo river clay with white speckled matte glaze.",
+      "price": 2200,
+      "currency": "LKR",
+      "imageUrl": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=800&q=80",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=800&q=80"
+      ],
+      "category": "Handmade & Crafts",
+      "tags": [
+        "ceramic mug",
+        "pottery",
+        "coffee",
+        "affordable",
+        "under 3000",
+        "handmade",
+        "colleague",
+        "friend"
+      ],
+      "occasions": [
+        "Birthday",
+        "Housewarming",
+        "Thank You",
+        "Just Because"
+      ],
+      "recipientTypes": [
+        "Friend",
+        "Colleague",
+        "Brother",
+        "Sister",
+        "Mom"
+      ],
+      "interests": [
+        "Coffee",
+        "Minimalist pottery",
+        "Daily essentials"
+      ],
+      "giftTypes": [
+        "Useful",
+        "Cute",
+        "Thoughtful"
+      ],
+      "minBudget": 1500,
+      "maxBudget": 3000,
+      "isFeatured": false,
+      "isActive": true,
+      "viewsCount": 190,
+      "clicksCount": 42,
+      "createdAt": "2026-01-15T12:00:00.000Z",
+      "updatedAt": "2026-01-15T12:00:00.000Z"
+    }
+  ],
+  "recipientProfiles": [
+    {
+      "id": "rec-girlfriend",
+      "userId": "user-shopper",
+      "name": "My Girlfriend ❤️",
+      "relationship": "Girlfriend",
+      "ageGroup": "20s",
+      "interests": [
+        "Skincare",
+        "Flowers",
+        "Cute stationery",
+        "Coffee & Chocolates"
+      ],
+      "preferredStyles": [
+        "Cute",
+        "Romantic",
+        "Aesthetic"
+      ],
+      "minBudget": 3000,
+      "maxBudget": 8000,
+      "birthday": "May 14",
+      "notes": "Loves pastel pinks, rose scented things and artisan desserts!",
+      "createdAt": "2026-01-16T08:00:00.000Z",
+      "updatedAt": "2026-01-16T08:00:00.000Z"
+    },
+    {
+      "id": "rec-mom",
+      "userId": "user-shopper",
+      "name": "Amma (Mom) 💐",
+      "relationship": "Mom",
+      "ageGroup": "50s",
+      "interests": [
+        "Ayurvedic wellness",
+        "Herbal teas",
+        "Handloom crafts",
+        "Gardening"
+      ],
+      "preferredStyles": [
+        "Useful",
+        "Thoughtful",
+        "Traditional"
+      ],
+      "minBudget": 4000,
+      "maxBudget": 12000,
+      "birthday": "November 28",
+      "notes": "Prefers Spa Ceylon wellness products or organic teas.",
+      "createdAt": "2026-01-16T08:00:00.000Z",
+      "updatedAt": "2026-01-16T08:00:00.000Z"
+    },
+    {
+      "id": "rec-kasun",
+      "userId": "user-shopper",
+      "name": "Bestie Kasun ☕",
+      "relationship": "Friend",
+      "ageGroup": "20s",
+      "interests": [
+        "Coffee",
+        "Tech gadgets",
+        "Desk setups",
+        "Books"
+      ],
+      "preferredStyles": [
+        "Useful",
+        "Minimalist"
+      ],
+      "minBudget": 2500,
+      "maxBudget": 6000,
+      "birthday": "August 10",
+      "notes": "Loves speciality roast coffees and unique desk notebooks.",
+      "createdAt": "2026-01-16T08:00:00.000Z",
+      "updatedAt": "2026-01-16T08:00:00.000Z"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "fav-1",
+      "userId": "user-shopper",
+      "productId": "prod-rose-bouquet",
+      "createdAt": "2026-01-16T10:00:00.000Z"
+    },
+    {
+      "id": "fav-2",
+      "userId": "user-shopper",
+      "productId": "prod-mimosa-sweet-hug",
+      "createdAt": "2026-01-16T10:00:00.000Z"
+    },
+    {
+      "id": "fav-3",
+      "userId": "user-shopper",
+      "shopId": "shop-bloom-house",
+      "createdAt": "2026-01-16T10:00:00.000Z"
+    }
+  ],
+  "savedLists": [
+    {
+      "id": "list-girlfriend-bday",
+      "userId": "user-shopper",
+      "title": "Girlfriend Birthday Ideas 🎂",
+      "description": "Curated gift shortlist for May birthday surprise",
+      "isPublic": true,
+      "itemIds": [
+        "prod-rose-bouquet",
+        "prod-mimosa-sweet-hug",
+        "prod-aurelia-initial-disc"
+      ],
+      "createdAt": "2026-01-16T10:00:00.000Z",
+      "updatedAt": "2026-01-16T10:00:00.000Z"
+    }
+  ],
+  "analyticsEvents": [
+    {
+      "id": "evt-1",
+      "eventType": "SEARCH_QUERY",
+      "query": "birthday gift for girlfriend under 5000",
+      "createdAt": "2026-10-07T05:38:56.092Z"
+    },
+    {
+      "id": "evt-2",
+      "eventType": "PRODUCT_VIEW",
+      "entityId": "prod-rose-bouquet",
+      "entityType": "product",
+      "createdAt": "2026-10-07T06:38:56.097Z"
+    },
+    {
+      "id": "evt-3",
+      "eventType": "OUTBOUND_WHATSAPP",
+      "entityId": "shop-bloom-house",
+      "entityType": "shop",
+      "createdAt": "2026-10-07T07:38:56.097Z"
+    },
+    {
+      "id": "evt-4",
+      "eventType": "OUTBOUND_INSTAGRAM",
+      "entityId": "shop-spa-ceylon",
+      "entityType": "shop",
+      "createdAt": "2026-10-07T08:38:56.097Z"
+    },
+    {
+      "id": "evt-5",
+      "eventType": "OUTBOUND_WEBSITE",
+      "entityId": "shop-mimosa",
+      "entityType": "shop",
+      "createdAt": "2026-10-07T09:38:56.097Z"
+    }
+  ]
+}
